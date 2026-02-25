@@ -6,3 +6,4 @@ jumpforce = -10;
 
 respawn_x = x;
 respawn_y = y;
+camera_set_view_target(view_camera[0], id);
