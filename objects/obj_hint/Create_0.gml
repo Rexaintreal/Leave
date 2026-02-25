@@ -1,1 +1,1 @@
-hint_text = "Keep going right...";
+hint_text = "Arrow keys or WASD to move. W or Up to jump.";

@@ -1,0 +1,1 @@
+hint_text = "Keep going right... there must be an exit.";
