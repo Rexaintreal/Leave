@@ -19,11 +19,14 @@
   },
   "name":"Leave",
   "resources":[
+    {"id":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},},
     {"id":{"name":"obj_hint","path":"objects/obj_hint/obj_hint.yy",},},
     {"id":{"name":"obj_platform","path":"objects/obj_platform/obj_platform.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_spike","path":"objects/obj_spike/obj_spike.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
     {"id":{"name":"spr_exit","path":"sprites/spr_exit/spr_exit.yy",},},
     {"id":{"name":"spr_hint","path":"sprites/spr_hint/spr_hint.yy",},},
     {"id":{"name":"spr_platform","path":"sprites/spr_platform/spr_platform.yy",},},
@@ -33,7 +36,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
