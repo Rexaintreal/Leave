@@ -1,4 +1,3 @@
-// Smooth camera follow
 var cam_x = camera_get_view_x(view_camera[0]);
 cam_x = lerp(cam_x, x - 683, 0.1);
 cam_x = clamp(cam_x, 0, room_width - 1366);
